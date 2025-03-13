@@ -1,0 +1,4 @@
+91628b2eddeb453769e857a4de5682e2d9d8ab66  ./pub/linux/kernel/Linux-4.9-kernel-x86_64.iso
+5b6dd287adf17affadca4c2da8ae2ef8b5995e9a  ./pub/linux/kernel/linux-6.13.6-kernel-x86_64.iso
+96069a942fb1bebebd4d030a61ff147cff0adc5d  ./pub/linux/kernel/ISOLINUX/linux-6.13.6-bootdisk-defconfig-x86_64.ISO
+ff98cebcf51aec87c8783e9d2deaa02226d7bd9c  ./pub/linux/kernel/ISOLINUX/linux-6.13.6-bootdisk-nomodule-x86_64.ISO

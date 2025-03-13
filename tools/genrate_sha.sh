@@ -1,0 +1,1 @@
+find ./pub -type f -exec sha1sum {} \; > checksums.sha
